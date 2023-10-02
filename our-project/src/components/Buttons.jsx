@@ -12,8 +12,10 @@ export const Buttons = () => {
             <div>9</div>
             <div>0</div>
             <div>+</div>
+            <div>-</div>
+            <div>/</div>
             <div>*</div>
-            <div></div>
+            <div>=</div>
             <div>Buttons</div>
         </>
     )
